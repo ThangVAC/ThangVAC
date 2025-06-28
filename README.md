@@ -31,8 +31,6 @@
 </p>
 -->
 
----
-
 ### 🌐 Kết nối với mình:
 <p align="center">
   <a href="https://www.facebook.com/nguyen.thang.340881" target="_blank">Facebook</a> •
