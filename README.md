@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Xin chào 👋, mình là Thắng</h1>
+<h3 align="center">💻 Một lập trình viên đam mê công nghệ đến từ Việt Nam 🇻🇳</h3>
 
-<!--
-**ThangVAC/ThangVAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThangVAC&label=Lượt%20truy%20cập&color=0e75b6&style=flat" alt="ThangVAC" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Vài điều về mình:
+
+- 🔭 Mình đang phát triển các dự án cá nhân về **ứng dụng máy tính, web & Game**
+- 🌱 Hiện tại đang học thêm về **C#, .NET, JavaScript, AI**
+- 🧰 Mình hay làm với: **WinForms, HTML/CSS, Git**
+- 💬 Cứ hỏi mình về: **GitHub, Web hosting**
+- 📫 Liên hệ: **zzthangzz3000@gmail.com**
+
+---
+
+### 🛠️ Kỹ năng:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,nodejs,python,vscode,github" />
+</p>
+
+---
+
+### 📈 Thống kê GitHub:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThangVAC&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ThangVAC&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Kết nối với mình:
+<p align="center">
+  <a href="https://fb.com/ten.facebook.cua.ban" target="_blank">Facebook</a> •
+  <a href="mailto:thangvac.dev@gmail.com">Email</a> •
+  <a href="https://github.com/ThangVAC" target="_blank">GitHub</a>
+</p>
