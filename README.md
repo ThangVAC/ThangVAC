@@ -20,6 +20,7 @@
 
 ---
 
+<!-- 
 ### 📈 Thống kê GitHub:
 <p align="center" style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ThangVAC&show_icons=true&theme=tokyonight" height="180" />
@@ -28,6 +29,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ThangVAC&label=Lượt%20truy%20cập&color=0e75b6&style=flat" alt="ThangVAC" />
 </p>
+-->
 
 ---
 
