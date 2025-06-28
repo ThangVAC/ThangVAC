@@ -19,7 +19,7 @@
 
 ### 🛠️ Kỹ năng:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,html,css,js,nodejs,python,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js,python,vscode,github" />
 </p>
 
 ---
