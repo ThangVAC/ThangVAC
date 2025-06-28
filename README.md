@@ -25,7 +25,7 @@
 ---
 
 ### 📈 Thống kê GitHub:
-<p style="display: flex; gap: 10px;">
+<p align="center" style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ThangVAC&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ThangVAC&theme=tokyonight" height="180" />
 </p>
