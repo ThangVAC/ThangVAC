@@ -25,7 +25,7 @@
 ---
 
 ### 📈 Thống kê GitHub:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ThangVAC&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ThangVAC&theme=tokyonight" />
@@ -35,7 +35,7 @@
 
 ### 🌐 Kết nối với mình:
 <p align="center">
-  <a href="https://fb.com/ten.facebook.cua.ban" target="_blank">Facebook</a> •
-  <a href="mailto:thangvac.dev@gmail.com">Email</a> •
+  <a href="[https://fb.com/ten.facebook.cua.ban](https://www.facebook.com/nguyen.thang.340881)" target="_blank">Facebook</a> •
+  <a href="mailto:zzthangzz3000@gmail.com">Email</a> •
   <a href="https://github.com/ThangVAC" target="_blank">GitHub</a>
 </p>
