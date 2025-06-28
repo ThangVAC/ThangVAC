@@ -35,7 +35,7 @@
 
 ### 🌐 Kết nối với mình:
 <p align="center">
-  <a href="[https://fb.com/ten.facebook.cua.ban](https://www.facebook.com/nguyen.thang.340881)" target="_blank">Facebook</a> •
+  <a href="[https://www.facebook.com/nguyen.thang.340881](https://www.facebook.com/nguyen.thang.340881)" target="_blank">Facebook</a> •
   <a href="mailto:zzthangzz3000@gmail.com">Email</a> •
   <a href="https://github.com/ThangVAC" target="_blank">GitHub</a>
 </p>
